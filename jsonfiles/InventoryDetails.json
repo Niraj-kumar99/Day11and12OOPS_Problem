@@ -1,0 +1,51 @@
+{
+		"Rice": [
+			{
+			"Type" : "Rice",
+			"Name": "Arborio",
+			"WeightInKg": 3.5,
+			"Price": 600.00
+			},
+			
+			{
+			"Type": "Rice",
+			"Name": "Jasmine",
+			"WeightInKg": 5.5,
+			"Price": 699.00
+			}
+		],
+		
+		"Wheat": [
+		{
+		"Type": "Wheat",
+		"Name": "Barley",
+		"WeightInKg": 4.02,
+		"Price": 400.00
+		},
+		
+		{	
+		"Type": "Wheat",
+		"Name": "Emmer",
+		"WeightInKg": 1.12,
+		"Price": 329.00
+		}
+	],
+		
+		"Pulses": [
+			{
+			"Type": "Pulses",
+			"Name": " Common bean",
+			"WeightInKg": 12.2,
+			"Price": 93.00
+			},
+			
+			{
+			"Type": "Pulses",
+			"Name": "Pigeon pea",
+			"WeightInKg": 5.5,
+			"Price": 265.00
+			}
+		]
+	}
+		
+		
